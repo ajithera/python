@@ -1,0 +1,20 @@
+# example.yaml
+person:
+  name: John Doe
+  age: 30
+  address:
+    street: 123 Main St
+    city: Anytown
+    state: Anywhere
+
+book:
+  title: The Catcher in the Rye
+  author: J.D. Salinger
+  year: 1951
+
+colors:
+  - Red
+  - Green
+  - Blue
+
+MyKey: This is the value for MyKey
